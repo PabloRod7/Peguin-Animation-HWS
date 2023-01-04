@@ -1,4 +1,5 @@
 # Peguin-Animation-HWS
+Bring your interfaces to life with animation, and meet switch/case at the same time.
 
 #Topics
 
